@@ -1,0 +1,35 @@
+Framework Notes
+
+used as a default setup
+
+Type:
+1. TDD: Test Driven Development Framework
+2. BDD: Behavior Driven Development Framework
+		features are written in Gherkin language
+		it is also called as GWT Framework
+		
+Given: pre condition
+When: action user performs
+Then post condition, what should happen, the expected result 
+
+Design Pattern:
+POM: Page Object Model (every page will have corresponding class)
+SingleTon:
+
+Integrations:
+Java - PL
+Selenium - Automation Tool
+Testng - test cases
+APachePOI - excel and data provider
+Properties - to get data
+OOPS - principles
+Maven - Build tool
+Jenkins - CICD tool
+Git/Github - remote repository / version management 
+
+Project Structure:
+src/main/java: contain your actual java and Selenium code
+src/main/resources: contain the resources for the main code
+src/test/java: contain the test cases and TestNG code
+src/test/resources: test data files
+

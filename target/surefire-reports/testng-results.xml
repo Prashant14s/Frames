@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-18T12:25:22 IST" name="Suite" finished-at="2023-02-18T12:28:06 IST" duration-ms="164011">
+    <groups>
+    </groups>
+    <test started-at="2023-02-18T12:25:22 IST" name="testng" finished-at="2023-02-18T12:28:06 IST" duration-ms="164011">
+      <class name="com.lti.testcases.DashboardPageTest">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:com.lti.testcases.DashboardPageTest@4cc451f2]" started-at="2023-02-18T12:25:22 IST" name="browserSetup" finished-at="2023-02-18T12:25:51 IST" duration-ms="28922" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="buzzPostSectionTest()[pri:0, instance:com.lti.testcases.DashboardPageTest@4cc451f2]" started-at="2023-02-18T12:25:51 IST" name="buzzPostSectionTest" finished-at="2023-02-18T12:25:56 IST" duration-ms="4953" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buzzPostSectionTest -->
+        <test-method is-config="true" signature="closeSetup()[pri:0, instance:com.lti.testcases.DashboardPageTest@4cc451f2]" started-at="2023-02-18T12:25:56 IST" name="closeSetup" finished-at="2023-02-18T12:25:56 IST" duration-ms="195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSetup -->
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:com.lti.testcases.DashboardPageTest@4cc451f2]" started-at="2023-02-18T12:25:56 IST" name="browserSetup" finished-at="2023-02-18T12:26:05 IST" duration-ms="9170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="empDistributionLocationSectionTest()[pri:0, instance:com.lti.testcases.DashboardPageTest@4cc451f2]" started-at="2023-02-18T12:26:05 IST" name="empDistributionLocationSectionTest" finished-at="2023-02-18T12:26:09 IST" duration-ms="3606" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- empDistributionLocationSectionTest -->
+        <test-method is-config="true" signature="closeSetup()[pri:0, instance:com.lti.testcases.DashboardPageTest@4cc451f2]" started-at="2023-02-18T12:26:09 IST" name="closeSetup" finished-at="2023-02-18T12:26:09 IST" duration-ms="242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSetup -->
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:com.lti.testcases.DashboardPageTest@4cc451f2]" started-at="2023-02-18T12:26:09 IST" name="browserSetup" finished-at="2023-02-18T12:26:20 IST" duration-ms="11344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="empDistributionSubUnitSectionTest()[pri:0, instance:com.lti.testcases.DashboardPageTest@4cc451f2]" started-at="2023-02-18T12:26:20 IST" name="empDistributionSubUnitSectionTest" finished-at="2023-02-18T12:26:24 IST" duration-ms="3749" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- empDistributionSubUnitSectionTest -->
+        <test-method is-config="true" signature="closeSetup()[pri:0, instance:com.lti.testcases.DashboardPageTest@4cc451f2]" started-at="2023-02-18T12:26:24 IST" name="closeSetup" finished-at="2023-02-18T12:26:24 IST" duration-ms="538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSetup -->
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:com.lti.testcases.DashboardPageTest@4cc451f2]" started-at="2023-02-18T12:26:24 IST" name="browserSetup" finished-at="2023-02-18T12:26:35 IST" duration-ms="10091" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="empLeaveSectionTest()[pri:0, instance:com.lti.testcases.DashboardPageTest@4cc451f2]" started-at="2023-02-18T12:26:35 IST" name="empLeaveSectionTest" finished-at="2023-02-18T12:26:41 IST" duration-ms="6320" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- empLeaveSectionTest -->
+        <test-method is-config="true" signature="closeSetup()[pri:0, instance:com.lti.testcases.DashboardPageTest@4cc451f2]" started-at="2023-02-18T12:26:41 IST" name="closeSetup" finished-at="2023-02-18T12:26:41 IST" duration-ms="187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSetup -->
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:com.lti.testcases.DashboardPageTest@4cc451f2]" started-at="2023-02-18T12:26:41 IST" name="browserSetup" finished-at="2023-02-18T12:26:51 IST" duration-ms="9573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="myActionsSectionTest()[pri:0, instance:com.lti.testcases.DashboardPageTest@4cc451f2]" started-at="2023-02-18T12:26:51 IST" name="myActionsSectionTest" finished-at="2023-02-18T12:26:55 IST" duration-ms="4000" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myActionsSectionTest -->
+        <test-method is-config="true" signature="closeSetup()[pri:0, instance:com.lti.testcases.DashboardPageTest@4cc451f2]" started-at="2023-02-18T12:26:55 IST" name="closeSetup" finished-at="2023-02-18T12:26:55 IST" duration-ms="192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSetup -->
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:com.lti.testcases.DashboardPageTest@4cc451f2]" started-at="2023-02-18T12:26:55 IST" name="browserSetup" finished-at="2023-02-18T12:27:09 IST" duration-ms="14113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="quickLaunchSectionTest()[pri:0, instance:com.lti.testcases.DashboardPageTest@4cc451f2]" started-at="2023-02-18T12:27:09 IST" name="quickLaunchSectionTest" finished-at="2023-02-18T12:27:13 IST" duration-ms="3870" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quickLaunchSectionTest -->
+        <test-method is-config="true" signature="closeSetup()[pri:0, instance:com.lti.testcases.DashboardPageTest@4cc451f2]" started-at="2023-02-18T12:27:13 IST" name="closeSetup" finished-at="2023-02-18T12:27:13 IST" duration-ms="131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSetup -->
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:com.lti.testcases.DashboardPageTest@4cc451f2]" started-at="2023-02-18T12:27:13 IST" name="browserSetup" finished-at="2023-02-18T12:27:23 IST" duration-ms="10005" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="validateDashboardLabelTest()[pri:0, instance:com.lti.testcases.DashboardPageTest@4cc451f2]" started-at="2023-02-18T12:27:23 IST" name="validateDashboardLabelTest" finished-at="2023-02-18T12:27:28 IST" duration-ms="4725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDashboardLabelTest -->
+        <test-method is-config="true" signature="closeSetup()[pri:0, instance:com.lti.testcases.DashboardPageTest@4cc451f2]" started-at="2023-02-18T12:27:28 IST" name="closeSetup" finished-at="2023-02-18T12:27:28 IST" duration-ms="187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSetup -->
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:com.lti.testcases.DashboardPageTest@4cc451f2]" started-at="2023-02-18T12:27:28 IST" name="browserSetup" finished-at="2023-02-18T12:27:39 IST" duration-ms="11602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="validateTimeAtWorkSectionTest()[pri:0, instance:com.lti.testcases.DashboardPageTest@4cc451f2]" started-at="2023-02-18T12:27:39 IST" name="validateTimeAtWorkSectionTest" finished-at="2023-02-18T12:27:44 IST" duration-ms="4458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTimeAtWorkSectionTest -->
+        <test-method is-config="true" signature="closeSetup()[pri:0, instance:com.lti.testcases.DashboardPageTest@4cc451f2]" started-at="2023-02-18T12:27:44 IST" name="closeSetup" finished-at="2023-02-18T12:27:44 IST" duration-ms="222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSetup -->
+      </class> <!-- com.lti.testcases.DashboardPageTest -->
+      <class name="com.lti.testcases.LoginPageTest">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:com.lti.testcases.LoginPageTest@5c33f1a9]" started-at="2023-02-18T12:27:44 IST" name="browserSetup" finished-at="2023-02-18T12:27:53 IST" duration-ms="9300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="validateLoginTest()[pri:0, instance:com.lti.testcases.LoginPageTest@5c33f1a9]" started-at="2023-02-18T12:27:53 IST" name="validateLoginTest" finished-at="2023-02-18T12:27:55 IST" duration-ms="1214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginTest -->
+        <test-method is-config="true" signature="closeSetup()[pri:0, instance:com.lti.testcases.LoginPageTest@5c33f1a9]" started-at="2023-02-18T12:27:55 IST" name="closeSetup" finished-at="2023-02-18T12:27:55 IST" duration-ms="239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSetup -->
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:com.lti.testcases.LoginPageTest@5c33f1a9]" started-at="2023-02-18T12:27:55 IST" name="browserSetup" finished-at="2023-02-18T12:28:05 IST" duration-ms="10572" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="validateTitleTest()[pri:0, instance:com.lti.testcases.LoginPageTest@5c33f1a9]" started-at="2023-02-18T12:28:05 IST" name="validateTitleTest" finished-at="2023-02-18T12:28:05 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTitleTest -->
+        <test-method is-config="true" signature="closeSetup()[pri:0, instance:com.lti.testcases.LoginPageTest@5c33f1a9]" started-at="2023-02-18T12:28:05 IST" name="closeSetup" finished-at="2023-02-18T12:28:06 IST" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSetup -->
+      </class> <!-- com.lti.testcases.LoginPageTest -->
+    </test> <!-- testng -->
+  </suite> <!-- Suite -->
+</testng-results>
